@@ -1,4 +1,4 @@
-#Import the required library for the application
+#Imports all the required dependencies for the application
 from flask import Flask, Response
 from flask_cors import CORS
 from datetime import datetime
@@ -19,6 +19,7 @@ def home():
         "github_url":"https://github.com/nenyeonyema/hng-backend-stage0",
     }
 
+    #Serializes the object and returns the json format
     json_response = json.dumps(res, indent=4)
     return Response(json_response, mimetype='application/json')
 
