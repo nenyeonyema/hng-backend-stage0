@@ -10,7 +10,7 @@ This project is a simple public API built with Python Flask. It returns the foll
 ### `/GET`
 ** RESPONSE: **
 
-````json
+```json
     {
         "email": "chinenyeonyema1@gmail.com",
         "current_datetime": "2025-01-30T12:42:18.213410Z",
