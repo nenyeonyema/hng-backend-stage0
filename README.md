@@ -32,7 +32,7 @@ This project is a simple public API built with Python Flask. It returns the foll
 `sudo python3 main.py`
 
 5. Access the API endpoint
-http://34.89.27.98/
+https://hng-backend-stage0-dun.vercel.app/
 
 ** Link **
 https://hng12.slack.com/archives/C088XGSSWVC/p1738144310577199
