@@ -10,6 +10,7 @@ app = Flask(__name__)
 CORS(app)
 
 
+# Api route for the GET response
 @app.route("/", methods=["GET"])
 def home():
     
