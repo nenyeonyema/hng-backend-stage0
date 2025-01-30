@@ -34,5 +34,5 @@ This project is a simple public API built with Python Flask. It returns the foll
 5. Access the API endpoint
 https://hng-backend-stage0-dun.vercel.app/
 
-** Link **
+** Python Developers **
 https://hng12.slack.com/archives/C088XGSSWVC/p1738144310577199
