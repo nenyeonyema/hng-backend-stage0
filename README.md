@@ -35,4 +35,4 @@ This project is a simple public API built with Python Flask. It returns the foll
 https://hng-backend-stage0-dun.vercel.app/
 
 ** Python Developers **
-https://hng12.slack.com/archives/C088XGSSWVC/p1738144310577199
+https://hng.tech/hire/python-developers
